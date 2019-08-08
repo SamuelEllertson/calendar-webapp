@@ -5,7 +5,7 @@ which may include class plans, links, and lecture notes from one year to the nex
 
 This webapp is still in use at http://calendar.yhscs.us/
 
-Front page: 
+Main page: 
 ![Calendar](https://i.imgur.com/PJ7rnIC.png)
 
 Transfer tool:
